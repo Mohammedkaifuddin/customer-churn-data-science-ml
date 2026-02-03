@@ -1,0 +1,17 @@
+Bank-Customer-Churn-Records.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Python installation (IMPORTANT)
+Python/
+
+# OS
+.DS_Store
+Thumbs.db
